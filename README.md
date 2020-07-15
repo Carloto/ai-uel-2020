@@ -1,2 +1,2 @@
 # ai-uel-2020
-Repository for the artificial intelligence course
+Repository for the artificial intelligence course.
